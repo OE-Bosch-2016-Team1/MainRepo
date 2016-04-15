@@ -1,3 +1,7 @@
 SW/environment/out/
 SW/environment/.idea/workspace.xml
 SW/environment/XML-parse.log
+SW/out
+XML-parse.log
+.idea/workspace.xml
+
